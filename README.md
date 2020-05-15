@@ -7,8 +7,8 @@ the structure of sentences, an improved model is implemented using
 
 ## MOOC
 
-MOOC stands for Massive Open Online Courses. It is a massive open online course
-is an online course aimed at unlimited participation and open access via the web.
+MOOC stands for Massive Open Online Courses. It is an online course
+aimed at unlimited participation and open access via the web.
 
 Source: Wikipedia
 
